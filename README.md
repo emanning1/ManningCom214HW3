@@ -1,1 +1,1 @@
-# ManningCom214HW3
+The third homework assignment for COM214, completed using ChatGPT as instructed and submitted on 4/7/2024. All three files, the html, css, and js are attatched along with the write-up which also contains the link to the chat log with ChatGPT. 
